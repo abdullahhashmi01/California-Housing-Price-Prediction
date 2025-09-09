@@ -22,7 +22,7 @@ The notebook follows a standard, step-by-step machine learning workflow:
     * **Mean Absolute Error (MAE):** 0.52
     * **Mean Squared Error (MSE):**  0.49
     * **R-squared ($R^2$) Score:**  0.52 
-    * **Model Accuracy: 62.01 %
+    * **Model Accuracy:** 62.01 %
 
 6.  **Visualization:** Finally, the notebook uses a scatter plot to visually compare the predicted house prices against the actual prices. This plot is a powerful tool for seeing how well the model's predictions align with reality and for spotting any patterns or issues.
 
